@@ -30,3 +30,10 @@ The applications can be many but the 3 most important ones are:
 2. sbt 1.9.9
 3. Scalatest 3.2.18
 4. Cats IO 3.5.4
+
+## How to run the tests
+1. Clone the repository
+2. Run the tests with the following command:
+```bash
+sbt test
+```
